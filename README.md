@@ -1,2 +1,3 @@
 # hello-world
-just a test project
+Hi everybody!
+I like Java,Python and data mining!
